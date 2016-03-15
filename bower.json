@@ -1,0 +1,24 @@
+{
+  "name": "appname",
+  "description": "",
+  "main": "appname.js",
+  "authors": [
+    "David Remington <david.ian.remington@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "node"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.1"
+  }
+}
